@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, this is a message from Ruby. One very much off-rails.
+
+Thank you for swinging by. This blog documents some of the projects I have made and continue to work on during my first year of art college and into my second. Peruse at your leisure, if you have any feedback, questions or comments please do drop me a line. 
+
+This blog marks my first foray into proper web design/content editing (my previous attempts at web design were in Hot Glue, which will and has influenced my idea for layout and theme on Jekyll). It is a steep learning curve but I thank the tireless work of enthusiasts on GitHub for making this as accessible and clear as possible for newby website-makers. 
+
+Kind regards,
+Ruby
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
