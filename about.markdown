@@ -13,6 +13,7 @@ This blog marks my first foray into proper web design/content editing (my previo
 Kind regards,
 Ruby
 
+![a spooky building to give you a feeling of what this is about](/assets/images/bw-building-lakeside.jpg)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
